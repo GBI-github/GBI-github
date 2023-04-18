@@ -28,3 +28,5 @@
 
 ### projeto atuaal:
 • Meu projeto atual e programar pelo vizualg(portugol), e ingressar para a linguagem Java 
+
+![Snake animation](https://github.com/gib-github/gib-github/blob/output-contribution-grid-snake.svg)
