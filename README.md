@@ -1,12 +1,11 @@
  # Oi :wave:, Eu sou Gabriel
 - :mailbox_with_mail: aonde me encontrar: jgga07000@gmail.com
-- :seedling: Atualmente eu estou expandindo meus conhecimentos em Logica de Programação 
-- ☕ Estudande de Programação Java
+- :seedling: terminei meu curso em algoritimo, atualmente estudando python e HTML 
+- ☕ Estudande de Programação: Python, HTML
 
 
 <div>
    <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=gbi-github&show_icons=true&theme=radical"/>
-   <img width="48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gbi-github&layout=compact)](https://github.com/gbi-github/github-readme-stats&theme=radical"/>
 </div>
 
 
@@ -27,5 +26,5 @@
 ## Projetos e repositorios:
 
 ### projeto atuaal:
-• Meu projeto atual e programar pelo vizualg(portugol), e ingressar para a linguagem Java 
+• Meu projeto atual e me expecificar em python 
 
