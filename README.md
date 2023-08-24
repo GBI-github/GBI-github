@@ -2,15 +2,6 @@
 - :mailbox_with_mail: aonde me encontrar: jgga07000@gmail.com
 - :seedling: terminei meu curso em algoritimo, atualmente estudando python e HTML 
 
-
-
-<div>
-   <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=gbi-github&show_icons=true&theme=radical"/>
-</div>
-
-
-
-
 ## ✉️ me contate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-aa4341244/)
