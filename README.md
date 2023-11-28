@@ -1,6 +1,6 @@
  # Oi :wave:, Eu sou Gabriel
 - :mailbox_with_mail: aonde me encontrar: jgga07000@gmail.com
-- :seedling: terminei meu curso em algoritimo, atualmente estudando python e HTML 
+- :seedling: terminei meu curso em algoritimo, atualmente estudando python 
 
 ## ✉️ me contate 
 
